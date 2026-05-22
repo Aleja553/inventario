@@ -134,8 +134,8 @@ USE SCHEMA default;
 - Revisar totales agregados contra el archivo fuente
 
 ## Autor
-Alejandra (alejita2180@gmail.com)
-
+Eymy Alejandra Barrientos Castaño (alejita2180@gmail.com)
+Daniel Ignacio Villa Duque
 ## Fecha de Creación
 Mayo 2026
 
